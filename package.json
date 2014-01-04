@@ -2,7 +2,7 @@
   "name": "ganglia",
   "version": "0.0.1",
   "description": "Relay points for reactive applications",
-  "main": "index.js",
+  "main": "ganglia.js",
   "scripts": {
     "test": "node_modules/.bin/mocha"
   },
